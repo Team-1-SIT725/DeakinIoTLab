@@ -8,15 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Deakin University
+        Internet of Things (IoT) Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        The **Deakin IoT Lab** is at the forefront of innovation, teaching, and research in the Internet of Things (IoT), driving solutions that shape the future of smart technologies and connected systems.
+
   - block: collection
     content:
       title: Latest News
@@ -35,7 +35,7 @@ sections:
     design:
       view: card
       columns: '1'
-  
+
   - block: markdown
     content:
       title:
@@ -58,7 +58,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest IoT Research
       text: ""
       count: 5
       filters:
@@ -74,7 +74,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="https://futured.deakin.edu.au/concepts/internet-of-things/" cta_text="Learn More About IoT at Deakin →" %}}
     design:
       columns: '1'
 ---
