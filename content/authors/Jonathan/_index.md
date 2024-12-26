@@ -20,12 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Dr. Jonathan Kua specializes in adaptive multimedia streaming, low-latency networking for IoT, and AI applications in networking.
 
-interests:
-  - Adaptive Multimedia Streaming
-  - Low-Latency Networking
-  - Internet of Things (IoT)
-  - Artificial Intelligence in Networking
-  - Cyber-Physical Systems
+
 
 education:
   courses:

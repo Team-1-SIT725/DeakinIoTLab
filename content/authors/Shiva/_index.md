@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Dr. Shiva Pokhrel
+title: Dr. Shiva Raj Pokhrel
 
 # Full name (for SEO)
 first_name: Shiva
-last_name: Pokhrel
+last_name: Raj Pokhrel
 
 # Username (this should match the folder name)
 authors:
-  - shiva-pokhrel
+  - Shiva Raj Pokhrel
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,13 +24,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Dr. Shiva Pokhrel specializes in semantic communication, federated learning, quantum machine learning, and 6G technologies.
 
-interests:
-  - Semantic Communication
-  - Federated Learning
-  - Quantum Machine Learning
-  - 6G Technologies
-  - Internet of Things (IoT)
-  - Cyber-Physical Systems
+
 
 education:
   courses:

@@ -20,12 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include artificial intelligence, software optimization, and cloud computing.
 
-interests:
-  - Artificial Intelligence
-  - Software Engineering
-  - Cloud Computing
-  - Distributed Systems
-
 education:
   courses:
     - course: Master of Science in Information Technology Professional
@@ -61,4 +55,4 @@ user_groups:
 
 Raja Ramesh Yarlagadda is a software developer and IT professional with a passion for artificial intelligence, cloud computing, and distributed systems. With experience in integrating advanced AI models and developing optimized solutions, Raja focuses on driving impactful innovations in technology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
