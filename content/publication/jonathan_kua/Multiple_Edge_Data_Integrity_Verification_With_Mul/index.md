@@ -1,9 +1,9 @@
 ---
-title: "Efficient and private scheduling of wireless electric vehicles charging using reinforcement learning"
+title: "Multiple Edge Data Integrity Verification With Multi-Vendors and Multi-Servers in Mobile Edge Computing"
 
 # Authors
 authors:
-  - "Mohammad Belayet Hossain and Shiva Raj Pokhrel and Hai L Vu"
+  - "Md Rashedul Islam and Yong Xiang and Md Palash Uddin and Yao Zhao and Jonathan Kua and Longxiang Gao"
 
 # Date of publication
 date: 2000-01-01
@@ -13,14 +13,14 @@ publication_types: ["2"]  # '1' for conference papers, '2' for journal articles,
 
 # Publication name and details
 publication: "N/A"
-cited_by: "14"
+cited_by: "0"
 
 # Tags for categorization
 tags:
   - ""
 
 # Links to resources
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/10025795/"  # Link to the resource
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10836859/"  # Link to the resource
 url_code: ""
 url_dataset: ""
 url_poster: ""

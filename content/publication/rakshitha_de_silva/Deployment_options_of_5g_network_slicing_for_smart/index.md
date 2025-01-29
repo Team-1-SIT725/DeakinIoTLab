@@ -1,26 +1,26 @@
 ---
-title: "Efficient and private scheduling of wireless electric vehicles charging using reinforcement learning"
+title: "Deployment options of 5g network slicing for smart healthcare"
 
 # Authors
 authors:
-  - "Mohammad Belayet Hossain and Shiva Raj Pokhrel and Hai L Vu"
+  - "Rakshitha De Silva and Yushan Siriwardhana and Tharaka Samarasinghe and Madhusanka Liyanage and Mika Ylianttila"
 
 # Date of publication
 date: 2000-01-01
 
 # Publication type
-publication_types: ["2"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["1"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
 
 # Publication name and details
 publication: "N/A"
-cited_by: "14"
+cited_by: "3"
 
 # Tags for categorization
 tags:
   - ""
 
 # Links to resources
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/10025795/"  # Link to the resource
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9700516/"  # Link to the resource
 url_code: ""
 url_dataset: ""
 url_poster: ""

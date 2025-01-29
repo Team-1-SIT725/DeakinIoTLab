@@ -12,12 +12,15 @@ sections:
       user_groups:
         - Mobile Computing Researchers
         - IoT Researchers
+        - Professors
         - Researchers
         - Graduate Students
         - Academics
         - Visitors
         - Alumni
         - Administration
+        - Telecommunications Researchers
+
       sort_by: Params.last_name
       sort_ascending: true
     design:

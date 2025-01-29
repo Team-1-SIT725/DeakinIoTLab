@@ -13,7 +13,7 @@ publication_types: ["2"]  # '1' for conference papers, '2' for journal articles,
 
 # Publication name and details
 publication: "N/A"
-cited_by: "56"
+cited_by: "58"
 
 # Tags for categorization
 tags:

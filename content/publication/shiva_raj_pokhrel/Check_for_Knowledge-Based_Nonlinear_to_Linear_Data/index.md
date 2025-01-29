@@ -20,7 +20,7 @@ tags:
   - ""
 
 # Links to resources
-url_pdf: "https://books.google.com/books?hl=en&lr=&id=RVDcEAAAQBAJ&oi=fnd&pg=PA115&dq=info:LoTxpzZL1IYJ:scholar.google.com&ots=C5T6lY0s9_&sig=M4mL9dA_9J55-g-XqUiqpqN_cbM"  # Link to the resource
+url_pdf: "https://books.google.com/books?hl=en&lr=&id=RVDcEAAAQBAJ&oi=fnd&pg=PA115&dq=info:LoTxpzZL1IYJ:scholar.google.com&ots=C5T8kX3B50&sig=YBFcxzBPiB2bfDCh-nMAiVZHnOY"  # Link to the resource
 url_code: ""
 url_dataset: ""
 url_poster: ""
