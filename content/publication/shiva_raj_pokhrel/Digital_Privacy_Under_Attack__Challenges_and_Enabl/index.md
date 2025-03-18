@@ -1,5 +1,5 @@
 ---
-title: "Digital Privacy Under Attack: Challenges and Enablers"
+title: "Digital privacy under attack: Challenges and enablers"
 
 # Authors
 authors:
@@ -9,7 +9,7 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["3"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["3"]  # Preprint
 
 # Publication name and details
 publication: "N/A"

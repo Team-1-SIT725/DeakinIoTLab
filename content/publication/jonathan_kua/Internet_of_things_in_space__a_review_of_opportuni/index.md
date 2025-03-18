@@ -1,5 +1,5 @@
 ---
-title: "Internet of things in space: a review of opportunities and challenges from satellite-aided computing to digitally-enhanced space living"
+title: "Internet of things in space: A review of opportunities and challenges from satellite-aided computing to digitally-enhanced space living"
 
 # Authors
 authors:
@@ -9,11 +9,11 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["2"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["2"]  # Journal Article
 
 # Publication name and details
 publication: "N/A"
-cited_by: "78"
+cited_by: "83"
 
 # Tags for categorization
 tags:

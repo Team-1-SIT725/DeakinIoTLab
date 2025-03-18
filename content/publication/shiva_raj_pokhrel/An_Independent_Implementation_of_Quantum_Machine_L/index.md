@@ -1,5 +1,5 @@
 ---
-title: "An Independent Implementation of Quantum Machine Learning Algorithms in Qiskit for Genomic Data"
+title: "An independent implementation of quantum machine learning algorithms in qiskit for genomic data"
 
 # Authors
 authors:
@@ -9,11 +9,11 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["1"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["1"]  # Conference Paper
 
 # Publication name and details
 publication: "N/A"
-cited_by: "0"
+cited_by: "3"
 
 # Tags for categorization
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Performance Analysis and Evaluation of Post Quantum Secure Blockchain Federated Learning"
+title: "Performance Analysis and Evaluation of Post Quantum Secure Blockchained Federated Learning"
 
 # Authors
 authors:
@@ -9,11 +9,11 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["3"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["3"]  # Preprint
 
 # Publication name and details
 publication: "N/A"
-cited_by: "7"
+cited_by: "10"
 
 # Tags for categorization
 tags:

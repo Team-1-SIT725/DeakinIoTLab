@@ -3,13 +3,13 @@ title: "On Harnessing Semantic Communication With Natural Language Processing"
 
 # Authors
 authors:
-  - "Shiva Raj Pokhrel"
+  - "Shiva Raj Pokhrel and Te Claire"
 
 # Date of publication
 date: 2000-01-01
 
 # Publication type
-publication_types: ["2"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["2"]  # Journal Article
 
 # Publication name and details
 publication: "N/A"

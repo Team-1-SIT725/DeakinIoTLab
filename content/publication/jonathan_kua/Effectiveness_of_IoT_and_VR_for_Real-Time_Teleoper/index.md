@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness of IoT and VR for Real-Time Teleoperation of Industrial Robots"
+title: "Effectiveness of IoT and VR for real-time teleoperation of industrial robots"
 
 # Authors
 authors:
@@ -9,7 +9,7 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["3"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["3"]  # Preprint
 
 # Publication name and details
 publication: "N/A"
@@ -20,7 +20,7 @@ tags:
   - ""
 
 # Links to resources
-url_pdf: "https://www.researchgate.net/profile/Thien-Tran-72/publication/378477052_Effectiveness_of_IoT_and_VR_for_Real_Time_Teleoperation_of_Industrial_Robots_Preprint_v1pdf/data/65dbabfec3b52a1170f724e6/Effectiveness-of-IoT-and-VR-for-Real-Time-Teleoperation-of-Industrial-Robots-Preprint-v1.pdf"  # Link to the resource
+url_pdf: "https://www.researchsquare.com/article/rs-3812859/latest"  # Link to the resource
 url_code: ""
 url_dataset: ""
 url_poster: ""

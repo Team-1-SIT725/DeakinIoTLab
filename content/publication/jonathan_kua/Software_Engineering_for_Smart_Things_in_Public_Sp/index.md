@@ -1,5 +1,5 @@
 ---
-title: "Software Engineering for Smart Things in Public Spaces: Initial Insights and Challenges"
+title: "Software engineering for smart things in public spaces: Initial insights and challenges"
 
 # Authors
 authors:
@@ -9,7 +9,7 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["1"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["1"]  # Conference Paper
 
 # Publication name and details
 publication: "N/A"

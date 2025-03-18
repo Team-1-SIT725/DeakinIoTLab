@@ -9,7 +9,7 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["2"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["2"]  # Journal Article
 
 # Publication name and details
 publication: "N/A"

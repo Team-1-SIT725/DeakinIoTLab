@@ -9,7 +9,7 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["1"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["1"]  # Conference Paper
 
 # Publication name and details
 publication: "N/A"
@@ -20,7 +20,7 @@ tags:
   - ""
 
 # Links to resources
-url_pdf: "http://www.kevin-lee.co.uk/work/research/welgama_iotbds_2022_published.pdf"  # Link to the resource
+url_pdf: "https://www.scitepress.org/Papers/2022/111075/111075.pdf"  # Link to the resource
 url_code: ""
 url_dataset: ""
 url_poster: ""

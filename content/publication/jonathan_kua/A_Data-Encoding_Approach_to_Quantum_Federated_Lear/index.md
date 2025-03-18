@@ -1,5 +1,5 @@
 ---
-title: "A Data-Encoding Approach to Quantum Federated Learning: Experimenting with Cloud Challenges"
+title: "A data-encoding approach to quantum federated learning: Experimenting with cloud challenges"
 
 # Authors
 authors:
@@ -9,11 +9,11 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["1"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["1"]  # Conference Paper
 
 # Publication name and details
 publication: "N/A"
-cited_by: "0"
+cited_by: "2"
 
 # Tags for categorization
 tags:

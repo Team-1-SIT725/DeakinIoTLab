@@ -1,5 +1,5 @@
 ---
-title: "Quantum Federated Learning Experiments in the Cloud with Data Encoding"
+title: "Quantum federated learning experiments in the cloud with data encoding"
 
 # Authors
 authors:
@@ -9,11 +9,11 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["1"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["1"]  # Conference Paper
 
 # Publication name and details
 publication: "N/A"
-cited_by: "4"
+cited_by: "6"
 
 # Tags for categorization
 tags:

@@ -9,7 +9,7 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["2"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["2"]  # Journal Article
 
 # Publication name and details
 publication: "N/A"
@@ -20,7 +20,7 @@ tags:
   - ""
 
 # Links to resources
-url_pdf: "https://scholar.google.com/scholar?cluster=4899113606184437442&hl=en&oi=scholarr"  # Link to the resource
+url_pdf: "https://figshare.swinburne.edu.au/articles/thesis/Achieving_high_performance_content_streaming_with_adaptive_chunklets_and_active_queue_management/26280550"  # Link to the resource
 url_code: ""
 url_dataset: ""
 url_poster: ""

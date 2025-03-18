@@ -1,5 +1,5 @@
 ---
-title: "Towards Decentralized Operationalization of Zero Trust Architecture"
+title: "Towards decentralized operationalization of zero trust architecture"
 
 # Authors
 authors:
@@ -9,7 +9,7 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["3"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["3"]  # Preprint
 
 # Publication name and details
 publication: "N/A"
@@ -20,7 +20,7 @@ tags:
   - ""
 
 # Links to resources
-url_pdf: "https://www.techrxiv.org/doi/full/10.36227/techrxiv.19127090.v1"  # Link to the resource
+url_pdf: "https://www.techrxiv.org/doi/full/10.36227/techrxiv.19127090"  # Link to the resource
 url_code: ""
 url_dataset: ""
 url_poster: ""

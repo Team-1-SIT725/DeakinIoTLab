@@ -9,7 +9,7 @@ authors:
 date: 2000-01-01
 
 # Publication type
-publication_types: ["1"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["1"]  # Conference Paper
 
 # Publication name and details
 publication: "N/A"
@@ -20,7 +20,7 @@ tags:
   - ""
 
 # Links to resources
-url_pdf: "http://caia.swin.edu.au/reports/161216A/CAIA-TR-161216A.pdf"  # Link to the resource
+url_pdf: "https://scholar.google.com/scholar?cluster=12005700472937789676&hl=en&oi=scholarr"  # Link to the resource
 url_code: ""
 url_dataset: ""
 url_poster: ""

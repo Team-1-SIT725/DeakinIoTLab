@@ -47,20 +47,21 @@ def get_publication_type_from_crossref(title, retries=3, delay=5):
 def categorize_paper(publication_name, title):
     """
     Categorize papers using CrossRef API or fallback logic.
+    Returns numeric value for publication type and the textual label.
     """
     crossref_type = get_publication_type_from_crossref(title)
     if crossref_type == 'unknown':
         print(f"CrossRef data unavailable for title '{title}', falling back to keyword matching.")
     if crossref_type in ["journal-article", "proceedings-article"]:
-        return "1" if crossref_type == "proceedings-article" else "2"
+        return ("2", "Journal Article") if crossref_type == "journal-article" else ("1", "Conference Paper")
 
     # Fallback: Use venue or title keywords
     lower_pub = (publication_name or "").lower()
     if any(kw in lower_pub for kw in ["conference", "symposium", "proceedings", "workshop"]):
-        return "1"  # Conference paper
+        return ("1", "Conference Paper")  # Conference paper
     elif any(kw in lower_pub for kw in ["journal", "letters", "transactions"]):
-        return "2"  # Journal article
-    return "3"  # Preprint
+        return ("2", "Journal Article")  # Journal article
+    return ("3", "Preprint")  # Preprint
 
 def clean_file_name(title):
     """Create a safe filename from the paper title."""
@@ -108,10 +109,15 @@ for author_name in known_authors:
         tags = pub.get('bib', {}).get('keywords', '').split(",")  # Optional tags
         link = pub.get('pub_url', '')
 
-        # Validate year and create a valid date
-        if not year or not year.isdigit():  # Handle missing or invalid year
-            year = "2000"  # Default year
-        formatted_date = f"{year}-01-01"
+        # Check and use another valid field (e.g., date, publication year) for the date field
+        publication_date = pub.get('bib', {}).get('pub_date', None)  # Trying to get a valid date
+        if not publication_date:
+            if not year or not year.isdigit():  # Handle missing or invalid year
+                year = "2000"  # Default year
+            formatted_date = f"{year}-01-01"
+        else:
+            # Use the `pub_date` as the fallback date if available
+            formatted_date = publication_date if publication_date else "2000-01-01"
 
         # Skip duplicates and unmatched authors
         if title in processed_titles:
@@ -121,7 +127,7 @@ for author_name in known_authors:
             continue
 
         # Categorize based on CrossRef and fallback
-        publication_type = categorize_paper(publication, title)
+        publication_type_numeric, publication_type_label = categorize_paper(publication, title)
 
         # Prepare file path
         safe_title = clean_file_name(title)
@@ -141,7 +147,7 @@ authors:
 date: {formatted_date}
 
 # Publication type
-publication_types: ["{publication_type}"]  # '1' for conference papers, '2' for journal articles, '3' for preprints
+publication_types: ["{publication_type_numeric}"]  # {publication_type_label}
 
 # Publication name and details
 publication: "{publication}"

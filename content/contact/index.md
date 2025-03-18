@@ -10,19 +10,19 @@ sections:
       title: Contact
       text: |-
         Get in touch with the Deakin IoT Research Group for inquiries about our projects, research opportunities, or collaborations.
-      email: iotlab@deakin.edu.au
-      phone: +61 3 5227 1100
+      email: jonathan.kua@deakin.edu.au
+      phone: +61 3 924 68629
       address:
-        street: 75 Pigdons Road
-        city: Waurn Ponds
+        street: Melbourne Burwood Campus
+        city: Burwood
         region: VIC
-        postcode: '3216'
+        postcode: '3125'
         country: Australia
         country_code: AU
       coordinates:
-        latitude: '-38.1984'
-        longitude: '144.2965'
-      directions: Visit the Deakin University Waurn Ponds Campus. Find the IoT Lab in Building KA, Level 2, Room 205.
+        latitude: '-37.8270'
+        longitude: '145.1314'
+      directions: Visit Deakin University, Melbourne Burwood Campus, School of Information Technology.
       office_hours:
         - 'Monday to Friday: 09:00 to 17:00'
       appointment_url: ''
@@ -46,19 +46,14 @@ sections:
       title: Visit Us
       subtitle: ''
       text: |
-        Learn more about our research and projects at the [Deakin IoT Research Group](https://www.deakin.edu.au/iot-lab).
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+        For inquiries, contact:
+        - **Jonathan Kua**, Senior Lecturer, School of Information Technology at Deakin University
+        - Email: [jonathan.kua@deakin.edu.au](mailto:jonathan.kua@deakin.edu.au)
+        - Work phone: +61 3 924 68629
+        
+        Or contact:
+        - **Shiva Pokhrel**, Senior Lecturer, Mobile Computing at Deakin University
+        - Email: [shiva.pokhrel@deakin.edu.au](mailto:shiva.pokhrel@deakin.edu.au)
+        - Work phone: +61 3 924 46281
+    
 ---
