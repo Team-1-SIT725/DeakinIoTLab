@@ -1,120 +1,98 @@
-# SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-# Appearance Settings
+# Site Configuration (HugoBlox / Wowchemy)
 
 appearance:
-  theme_day: minimal  # Day theme
-  theme_night:        # Night theme (leave empty if not used)
-  font: native        # Default font for the site
-  font_size: L        # Font size for readability
-
-# SEO Settings for Better Search Engine Ranking
+  theme_day: ocean        # Clean blue-accented theme
+  theme_night: night      # Enable dark mode toggle
+  font: native
+  font_size: L
 
 marketing:
   seo:
-    site_type: Organization   # Type of site (e.g., Organization, Blog, etc.)
-    local_business_type: ''   # Optional, specify local business type if applicable
-    org_name: ''              # Organization name
-    twitter: ':'              # Twitter handle (leave empty if not available)
+    site_type: Organization
+    local_business_type: ''
+    org_name: 'Deakin IoT Lab'
+    twitter: ''
   analytics:
-    google_analytics: ''       # Google Analytics tracking ID
-    baidu_tongji: ''           # Baidu Analytics tracking ID (if applicable)
-    google_tag_manager: ''     # Google Tag Manager ID
-    microsoft_clarity: ''      # Microsoft Clarity ID
+    google_analytics: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
-    google: ''                 # Google site verification code
-    baidu: ''                  # Baidu verification code
-
-# Site Header Configuration
+    google: ''
+    baidu: ''
 
 header:
   navbar:
-    enable: true               # Enable the navbar
-    align: r                   # Navbar alignment (e.g., right 'r', left 'l')
-    show_logo: true            # Show logo in the navbar
-    show_language: false       # Disable language selection in navbar
-    show_day_night: true       # Enable day/night mode toggle
-    show_search: true          # Enable search bar
-    highlight_active_link: false # Highlight the active link in the navbar
-
-# Footer Settings
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: false
 
 footer:
   copyright:
-    notice: ':'               # Custom copyright notice
+    notice: '© 2025 Deakin IoT Lab'
     license:
-      enable: false           # Enable/Disable license info in the footer
-      allow_derivatives: false # Allow derivative works
-      share_alike: true        # Share alike license
-      allow_commercial: false  # Restrict commercial use
-
-# Localization Settings
+      enable: false
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 locale:
-  date_format: 'Jan 2, 2006'   # Date format
-  time_format: '3:04 PM'       # Time format
-  address_format: en-us        # Address format (US standard)
-
-# Site Features Configuration
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
 
 features:
   syntax_highlighter:
-    enable: false              # Enable syntax highlighting
+    enable: false
     extra_languages:
-      - r                      # Add extra languages for syntax highlighting
-      - latex                  # For LaTeX code highlighting
+      - r
+      - latex
   math:
-    enable: false              # Enable math support
+    enable: false
   privacy_pack:
-    enable: false              # Enable privacy pack (cookie policy, etc.)
+    enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'  # GitHub repository link for the site
-    content_dir: content        # Content directory (adjust if needed)
-    branch: main                # GitHub branch to pull from
+    url: 'https://github.com/<username>/<repository>'
+    content_dir: content
+    branch: main
   avatar:
-    gravatar: false             # Disable Gravatar for avatars
-    shape: circle               # Avatar shape (circle, square, etc.)
+    gravatar: false
+    shape: circle
   comment:
-    provider: ''                # Specify comment provider (e.g., Disqus, Commento)
+    provider: ''
     disqus:
-      shortname: ''             # Disqus shortname for comment integration
-      show_count: true          # Show comment count
+      shortname: ''
+      show_count: true
     commento:
-      url: ''                   # Commento URL
+      url: ''
     giscus:
-      repo: ''                  # GitHub repository for Giscus comments
-      repo_id: ''               # Repository ID for Giscus
-      category: ''              # Category for Giscus comments
-      category_id: ''           # Category ID for Giscus comments
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
-    provider: wowchemy          # Search provider
+    provider: wowchemy
     algolia:
-      app_id: ''                # Algolia app ID
-      api_key: ''               # Algolia API key
-      index_name: ''            # Algolia index name
-      show_logo: false          # Display Algolia logo
-
-# Map Configuration
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
 
 map:
-  provider: 'mapnik'           # Map provider
-  api_key: ''                  # Map API key (if required)
-  zoom: 15                     # Default zoom level
-
-# Extensions for Additional Functionality
+  provider: 'mapnik'
+  api_key: ''
+  zoom: 15
 
 extensions:
   decap_cms:
-    branch: main               # Decap CMS branch (main by default)
-    local_backend: false       # Set to true if using a local backend for CMS
+    branch: main
+    local_backend: false
   academicons:
-    enable: true               # Enable academic icons (useful for research-focused sites)
-
-# Citation Style for Publications
+    enable: true
 
 publications:
-  date_format: January 2006    # Publication date format
-  citation_style: apa          # Citation style (APA, MLA, etc.)
+  date_format: January 2006
+  citation_style: apa

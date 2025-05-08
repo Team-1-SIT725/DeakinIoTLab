@@ -31,6 +31,7 @@ sections:
 
         Our team works closely with industry partners and academic institutions to ensure that our research contributes to real-world applications and innovations.
 
+
     design:
       columns: '1'
       background:
@@ -38,3 +39,4 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 ---
+

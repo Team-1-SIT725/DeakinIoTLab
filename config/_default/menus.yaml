@@ -9,17 +9,77 @@ main:
     url: "people"
     weight: 30
   - name: "Research"
-    url: "research"
+    identifier: "research"
+    url: "#"
     weight: 80
+
+  - name: "6G Communications"
+    url: "research/sixg-communications"
+    parent: "research"
+
+  - name: "IoT Platforms & Interoperability"
+    url: "research/iotplatforms"
+    parent: "research"
+
+  - name: "IoT Sensing & Analytics"
+    url: "research/iot-sensing"
+    parent: "research"
+
+  - name: "AI-driven Data Protocols"
+    url: "research/ai-driven-data-protocols"
+    parent: "research"
+
   - name: "Publications"
     url: "publication"
     weight: 50
+
+
   - name: "Projects"
-    url: "projects"
+    identifier: "projects"
+    url: "#"
     weight: 70
+
+  - name: "Smart Health Monitoring"
+    url: "projects/smart-health-monitoring"
+    parent: "projects"
+
+  - name: "Autonomous Vehicles"
+    url: "projects/autonomous-vehicles"
+    parent: "projects"
+
+  - name: "Smart Cities"
+    url: "projects/smart-cities"
+    parent: "projects"
+
+  - name: "Industrial IoT"
+    url: "projects/industrial-iot"
+    parent: "projects"
+
+  - name: "AgriTech"
+    url: "projects/agritech"
+    parent: "projects"
+
   - name: "RF-Sensing"
-    url: "RF-Sensing"
+    identifier: "rf-sensing"
+    url: "#"
     weight: 90
+
+  - name: "RF & CKD Pose Estimation"
+    url: "rf-sensing/rfckd-pose-estimation"
+    parent: "rf-sensing"
+
+  - name: "SDR Testbed"
+    url: "rf-sensing/sdr-testbed"
+    parent: "rf-sensing"
+
+  - name: "Teacher-Student Network"
+    url: "rf-sensing/teacher-student-network"
+    parent: "rf-sensing"
+
+  - name: "Privacy-Compliant Monitoring"
+    url: "rf-sensing/privacy-compliant-monitoring"
+    parent: "rf-sensing"
+
   - name: "Contact"
     url: "contact"
     weight: 60
