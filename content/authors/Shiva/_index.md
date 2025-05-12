@@ -55,7 +55,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Professors
+  - Research Leads
 ---
 
 Dr. Shiva Pokhrel is a distinguished Marie Curie Fellow and Senior Lecturer in Mobile Computing at Deakin University's School of Information Technology. He earned his PhD in ICT Engineering from Swinburne University of Technology, Australia. Dr. Pokhrel's extensive career includes a tenure as a research fellow at the University of Melbourne and a seven-year role as a Network Engineer.

@@ -1,42 +1,32 @@
 ---
 title: "Propagation of inequality: an analysis of capability development opportunities of Dalits in higher education on the Indian subcontinent"
-
-# Authors
 authors:
-  - "Sudeep Khanal and Shiva Raj Pokhrel and Rebecca Dewey"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
+  - Sudeep Khanal and Shiva Raj Pokhrel and Rebecca Dewey
+year: "2023"
+date: "2023-01-01"
 publication_types: ["2"]  # Journal Article
-
-# Publication name and details
+publication_type_label: "Journal Article"
 publication: "N/A"
+publisher: "Informa UK Limited"
+volume: "55"
+issue: "2"
+pages: "279-294"
+doi: "10.1080/03057925.2023.2254214"
+abstract: ""
 cited_by: "3"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://www.tandfonline.com/doi/abs/10.1080/03057925.2023.2254214"  # Link to the resource
+  - 
+url_pdf: "https://www.tandfonline.com/doi/abs/10.1080/03057925.2023.2254214"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

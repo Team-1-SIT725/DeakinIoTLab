@@ -1,42 +1,32 @@
 ---
 title: "Multiple Edge Data Integrity Verification With Multi-Vendors and Multi-Servers in Mobile Edge Computing"
-
-# Authors
 authors:
-  - "Md Rashedul Islam and Yong Xiang and Md Palash Uddin and Yao Zhao and Jonathan Kua and Longxiang Gao"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
-publication_types: ["2"]  # Journal Article
-
-# Publication name and details
+  - Md Rashedul Islam and Yong Xiang and Md Palash Uddin and Yao Zhao and Jonathan Kua and Longxiang Gao
+year: "None"
+date: "2000-01-01"
+publication_types: ["3"]  # Preprint
+publication_type_label: "Preprint"
 publication: "N/A"
+publisher: "Institute of Electrical and Electronics Engineers (IEEE)"
+volume: ""
+issue: ""
+pages: ""
+doi: "10.1109/tmc.2025.3528016/mm1"
+abstract: ""
 cited_by: "0"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/10836859/"  # Link to the resource
+  - 
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10836859/"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

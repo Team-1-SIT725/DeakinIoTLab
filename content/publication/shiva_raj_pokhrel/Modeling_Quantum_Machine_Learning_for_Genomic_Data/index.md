@@ -1,42 +1,32 @@
 ---
 title: "Modeling Quantum Machine Learning for Genomic Data Analysis"
-
-# Authors
 authors:
-  - "Navneet Singh and Shiva Raj Pokhrel"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
-publication_types: ["1"]  # Conference Paper
-
-# Publication name and details
+  - Navneet Singh and Shiva Raj Pokhrel
+year: "None"
+date: "2000-01-01"
+publication_types: ["3"]  # Preprint
+publication_type_label: "Preprint"
 publication: "N/A"
+publisher: "Queensland University of Technology"
+volume: ""
+issue: ""
+pages: ""
+doi: "10.5204/thesis.eprints.211253"
+abstract: ""
 cited_by: "0"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://arxiv.org/abs/2501.08193"  # Link to the resource
+  - 
+url_pdf: "https://arxiv.org/abs/2501.08193"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

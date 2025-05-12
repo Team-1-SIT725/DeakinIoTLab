@@ -2,7 +2,7 @@
 title: "Dr. Shyam Kumar Shrestha"
 
 # Role/Position
-role: Honours Graduate in Information Technology | Aspiring PhD Researcher  
+role: Honours Graduate in Information Technology 
 
 # Contact Information
 contact:
@@ -95,6 +95,16 @@ skills:
   soft:
     - "Time management, Collaboration, Leadership"
     - "Problem-solving, Presentation, Attention to detail"
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://linkedin.com/in/shyam-shrestha-b39b2b19a/"
+  - icon: github
+    icon_pack: fab
+    link: "https://github.com/Shyamesh"
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:deol.satish@outlook.com"
 
 # Interests and Hobbies
 hobbies:

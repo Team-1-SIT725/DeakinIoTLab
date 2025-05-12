@@ -13,6 +13,7 @@ sections:
         - Mobile Computing Researchers
         - IoT Researchers
         - Professors
+        - Research Leads
         - Researchers
         - Graduate Students
         - Academics
@@ -20,6 +21,7 @@ sections:
         - Alumni
         - Administration
         - Telecommunications Researchers
+        
 
       sort_by: Params.last_name
       sort_ascending: true

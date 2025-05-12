@@ -1,4 +1,13 @@
-# Site Configuration (HugoBlox / Wowchemy)
+# # Site Configuration (HugoBlox / Wowchemy)
+# publication_types:
+#   "1": "Conference Paper"
+#   "2": "Journal Article"
+#   "3": "Preprint"
+#   "4": "Book"
+#   "5": "Book Chapter"
+#   "6": "Thesis"
+#   "7": "Report"
+#   "8": "Other"
 
 appearance:
   theme_day: ocean        # Clean blue-accented theme
@@ -10,7 +19,7 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'Deakin IoT Lab'
+    org_name: 'Deakin IOT & Software Engineering Lab'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -32,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2025 Deakin IoT Lab'
+    notice: '© 2025 Deakin IOT & Software Engineering Lab'
     license:
       enable: false
       allow_derivatives: false
@@ -93,6 +102,12 @@ extensions:
   academicons:
     enable: true
 
+# Site Configuration (HugoBlox / Wowchemy)
+
+# ... [your current config stays the same above]
+
 publications:
   date_format: January 2006
   citation_style: apa
+
+

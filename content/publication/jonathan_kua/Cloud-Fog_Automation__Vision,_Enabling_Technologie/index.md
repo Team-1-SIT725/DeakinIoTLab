@@ -1,42 +1,29 @@
 ---
 title: "Cloud-Fog Automation: Vision, Enabling Technologies, and Future Research Directions"
-
-# Authors
 authors:
-  - "Jiong Jin and Kan Yu and Jonathan Kua and Ning Zhang and Zhibo Pang and Qing-Long Han"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
+  - Jiong Jin and Kan Yu and Jonathan Kua and Ning Zhang and Zhibo Pang and Qing-Long Han
+year: "2024"
+date: "2024-01-01"
 publication_types: ["2"]  # Journal Article
-
-# Publication name and details
+publication_type_label: "Journal Article"
 publication: "N/A"
-cited_by: "41"
-
-# Tags for categorization
+publisher: "Institute of Electrical and Electronics Engineers (IEEE)"
+abstract: ""
+cited_by: "45"
 tags:
-  - ""
+  - 
 
-# Links to resources
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/10114989/"  # Link to the resource
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10114989/"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

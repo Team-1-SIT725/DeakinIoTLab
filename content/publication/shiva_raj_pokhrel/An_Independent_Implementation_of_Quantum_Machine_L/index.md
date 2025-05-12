@@ -1,42 +1,32 @@
 ---
 title: "An independent implementation of quantum machine learning algorithms in qiskit for genomic data"
-
-# Authors
 authors:
-  - "Navneet Singh and Shiva Raj Pokhrel"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
-publication_types: ["1"]  # Conference Paper
-
-# Publication name and details
+  - Navneet Singh and Shiva Raj Pokhrel
+year: "2021"
+date: "2021-01-01"
+publication_types: ["5"]  # Book Chapter
+publication_type_label: "Book Chapter"
 publication: "N/A"
+publisher: "Apress"
+volume: ""
+issue: ""
+pages: "95-149"
+doi: "10.1007/978-1-4842-6522-2_3"
+abstract: ""
 cited_by: "3"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://arxiv.org/abs/2405.09781"  # Link to the resource
+  - 
+url_pdf: "https://arxiv.org/abs/2405.09781"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

@@ -1,42 +1,32 @@
 ---
 title: "Operationalizing rule-based socio-ethical behaviour in iot collectives: A policy management approach"
-
-# Authors
 authors:
-  - "Amna Batool and Seng W. Loke and Niroshinie Fernando and Jonathan Kua"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
+  - Amna Batool and Seng W. Loke and Niroshinie Fernando and Jonathan Kua
+year: "2021"
+date: "2021-01-01"
 publication_types: ["1"]  # Conference Paper
-
-# Publication name and details
+publication_type_label: "Conference Paper"
 publication: "N/A"
+publisher: "ACM"
+volume: ""
+issue: ""
+pages: "506-511"
+doi: "10.1145/3486622.3493987"
+abstract: ""
 cited_by: "1"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://dl.acm.org/doi/abs/10.1145/3486622.3493987"  # Link to the resource
+  - 
+url_pdf: "https://dl.acm.org/doi/abs/10.1145/3486622.3493987"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

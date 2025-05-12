@@ -1,42 +1,32 @@
 ---
 title: "PFL-DKD: Modeling decoupled knowledge fusion with distillation for improving personalized federated learning"
-
-# Authors
 authors:
-  - "Huanhuan Ge and Shiva Raj Pokhrel and Zhenyu Liu and Jinlong Wang and Gang Li"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
+  - Huanhuan Ge and Shiva Raj Pokhrel and Zhenyu Liu and Jinlong Wang and Gang Li
+year: "2024"
+date: "2024-01-01"
 publication_types: ["2"]  # Journal Article
-
-# Publication name and details
+publication_type_label: "Journal Article"
 publication: "N/A"
+publisher: "Elsevier BV"
+volume: "254"
+issue: ""
+pages: "110758"
+doi: "10.1016/j.comnet.2024.110758"
+abstract: ""
 cited_by: "3"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S1389128624005905"  # Link to the resource
+  - 
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S1389128624005905"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

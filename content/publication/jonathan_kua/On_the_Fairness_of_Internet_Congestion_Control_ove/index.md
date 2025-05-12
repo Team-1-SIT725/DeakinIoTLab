@@ -1,42 +1,32 @@
 ---
 title: "On the Fairness of Internet Congestion Control over WiFi with Deep Reinforcement Learning"
-
-# Authors
 authors:
-  - "Shyam Kumar Shrestha and Shiva Raj Pokhrel and Jonathan Kua"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
+  - Shyam Kumar Shrestha and Shiva Raj Pokhrel and Jonathan Kua
+year: "2024"
+date: "2024-01-01"
 publication_types: ["2"]  # Journal Article
-
-# Publication name and details
+publication_type_label: "Journal Article"
 publication: "N/A"
+publisher: "MDPI AG"
+volume: "16"
+issue: "9"
+pages: "330"
+doi: "10.3390/fi16090330"
+abstract: "For over forty years, TCP has been the main protocol for transporting data on the Internet. To improve congestion control algorithms (CCAs), delay bounding algorithms such as Vegas, FAST, BBR, PCC, and Copa have been developed. However, despite being designed to ensure fairness between data flows, these CCAs can still lead to unfairness and, in some cases, even cause data flow starvation in WiFi networks under certain conditions. We propose a new CCA switching solution that works with existing TCP and WiFi standards. This solution is offline and uses Deep Reinforcement Learning (DRL) trained on features such as noncongestive delay variations to predict and prevent extreme unfairness and starvation. Our DRL-driven approach allows for dynamic and efficient CCA switching. We have tested our design preliminarily in realistic datasets, ensuring that they support both fairness and efficiency over WiFi networks, which requires further investigation and extensive evaluation before online deployment."
 cited_by: "2"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://www.mdpi.com/1999-5903/16/9/330"  # Link to the resource
+  - 
+url_pdf: "https://www.mdpi.com/1999-5903/16/9/330"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

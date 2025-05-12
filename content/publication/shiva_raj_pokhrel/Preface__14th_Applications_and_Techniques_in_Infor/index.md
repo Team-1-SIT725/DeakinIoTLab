@@ -1,42 +1,32 @@
 ---
 title: "Preface: 14th Applications and Techniques in Information Security International Conference"
-
-# Authors
 authors:
-  - "VS Shankar Sriram and H Anila Glory and G Li and Shiva Pokhrel"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
+  - VS Shankar Sriram and H Anila Glory and G Li and Shiva Pokhrel
+year: "2021"
+date: "2021-01-01"
 publication_types: ["1"]  # Conference Paper
-
-# Publication name and details
+publication_type_label: "Conference Paper"
 publication: "N/A"
+publisher: "IEEE"
+volume: ""
+issue: ""
+pages: "1-1"
+doi: "10.1109/sin54109.2021.9699308"
+abstract: ""
 cited_by: "0"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://dro.deakin.edu.au/articles/conference_contribution/Preface_14th_Applications_and_Techniques_in_Information_Security_International_Conference/28544780"  # Link to the resource
+  - 
+url_pdf: "https://dro.deakin.edu.au/articles/conference_contribution/Preface_14th_Applications_and_Techniques_in_Information_Security_International_Conference/28544780"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

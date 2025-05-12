@@ -1,42 +1,32 @@
 ---
 title: "Modeling Feature Maps for Quantum Machine Learning"
-
-# Authors
 authors:
-  - "Navneet Singh and Shiva Raj Pokhrel"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
-publication_types: ["2"]  # Journal Article
-
-# Publication name and details
+  - Navneet Singh and Shiva Raj Pokhrel
+year: "2011"
+date: "2011-01-01"
+publication_types: ["5"]  # Book Chapter
+publication_type_label: "Book Chapter"
 publication: "N/A"
+publisher: "Springer US"
+volume: ""
+issue: ""
+pages: "886-886"
+doi: "10.1007/978-0-387-30164-8_745"
+abstract: ""
 cited_by: "0"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://arxiv.org/abs/2501.08205"  # Link to the resource
+  - 
+url_pdf: "https://arxiv.org/abs/2501.08205"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

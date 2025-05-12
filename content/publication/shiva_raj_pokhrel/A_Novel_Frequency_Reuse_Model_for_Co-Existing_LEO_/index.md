@@ -1,42 +1,32 @@
 ---
 title: "A novel frequency reuse model for co-existing LEO and GEO satellites"
-
-# Authors
 authors:
-  - "Bohai Li and Jihong Park and Akram Al-Hourani and Shiva Raj Pokhrel and Jinho Choi"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
+  - Bohai Li and Jihong Park and Akram Al-Hourani and Shiva Raj Pokhrel and Jinho Choi
+year: "2024"
+date: "2024-01-01"
 publication_types: ["2"]  # Journal Article
-
-# Publication name and details
+publication_type_label: "Journal Article"
 publication: "N/A"
+publisher: "Institute of Electrical and Electronics Engineers (IEEE)"
+volume: "13"
+issue: "4"
+pages: "1024-1028"
+doi: "10.1109/lwc.2024.3357971"
+abstract: ""
 cited_by: "2"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/10413484/"  # Link to the resource
+  - 
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10413484/"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

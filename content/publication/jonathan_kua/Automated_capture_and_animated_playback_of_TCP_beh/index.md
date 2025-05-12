@@ -1,42 +1,32 @@
 ---
 title: "Automated capture and animated playback of TCP behaviour during DASH-based content delivery"
-
-# Authors
 authors:
-  - "Jonathan Kua and Grenville Armitage and Philip Branch"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
-publication_types: ["3"]  # Preprint
-
-# Publication name and details
+  - Jonathan Kua and Grenville Armitage and Philip Branch
+year: "2021"
+date: "2021-01-01"
+publication_types: ["5"]  # Book Chapter
+publication_type_label: "Book Chapter"
 publication: "N/A"
+publisher: "Auerbach Publications"
+volume: ""
+issue: ""
+pages: "105-106"
+doi: "10.1201/9781003145110-18"
+abstract: ""
 cited_by: "0"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "http://www.ieeelcn.org/prior/LCN41/lcn41demos/Kua.pdf"  # Link to the resource
+  - 
+url_pdf: "http://www.ieeelcn.org/prior/LCN41/lcn41demos/Kua.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

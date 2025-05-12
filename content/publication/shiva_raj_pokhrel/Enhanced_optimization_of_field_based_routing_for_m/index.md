@@ -1,42 +1,32 @@
 ---
 title: "Enhanced optimization of field based routing for macro mobility in IEEE 802.11 s mesh"
-
-# Authors
 authors:
-  - "Shiva Raj Pokhrel and Saroj Shakya"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
+  - Shiva Raj Pokhrel and Saroj Shakya
+year: "2013"
+date: "2013-01-01"
 publication_types: ["1"]  # Conference Paper
-
-# Publication name and details
+publication_type_label: "Conference Paper"
 publication: "N/A"
+publisher: "IEEE"
+volume: ""
+issue: ""
+pages: "1-5"
+doi: "10.1109/wocn.2013.6616202"
+abstract: ""
 cited_by: "6"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/6616202/"  # Link to the resource
+  - 
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/6616202/"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

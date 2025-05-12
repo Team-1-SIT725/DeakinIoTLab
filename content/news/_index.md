@@ -1,10 +1,6 @@
 ---
-
-title: "Latest News"
+title: Lab News & Events
 type: section
-view: card
-banner:
-  
-  caption: "Stay updated with the latest in tech & IoT"
-paginate: 10
+layout: list
+summary: Browse recent announcements, seminars, fellowships, and events hosted or shared by the Deakin IoT Lab.
 ---

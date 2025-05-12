@@ -1,42 +1,32 @@
 ---
 title: "A personalized quantum federated learning"
-
-# Authors
 authors:
-  - "Dev Gurung and Shiva Raj Pokhrel"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
-publication_types: ["1"]  # Conference Paper
-
-# Publication name and details
+  - Dev Gurung and Shiva Raj Pokhrel
+year: "2025"
+date: "2025-01-01"
+publication_types: ["5"]  # Book Chapter
+publication_type_label: "Book Chapter"
 publication: "N/A"
-cited_by: "3"
-
-# Tags for categorization
+publisher: "Elsevier"
+volume: ""
+issue: ""
+pages: "33-42"
+doi: "10.1016/b978-0-44-323641-9.00012-1"
+abstract: ""
+cited_by: "5"
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://dl.acm.org/doi/abs/10.1145/3663408.3665806"  # Link to the resource
+  - 
+url_pdf: "https://dl.acm.org/doi/abs/10.1145/3663408.3665806"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

@@ -1,42 +1,32 @@
 ---
-title: "Towards decentralized operationalization of zero trust architecture"
-
-# Authors
+title: "Towards Decentralized Operationalization of Zero Trust Architecture for Next Generation Networks"
 authors:
-  - "Shiva Raj Pokhrel and Gang Li and Robin Doss and Surya Nepal"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
-publication_types: ["3"]  # Preprint
-
-# Publication name and details
+  - Shiva Raj Pokhrel and Gang Li and Robin Doss and Surya Nepal
+year: "2025"
+date: "2025-01-01"
+publication_types: ["2"]  # Journal Article
+publication_type_label: "Journal Article"
 publication: "N/A"
-cited_by: "3"
-
-# Tags for categorization
+publisher: "Institute of Electrical and Electronics Engineers (IEEE)"
+volume: ""
+issue: ""
+pages: "1-1"
+doi: "10.1109/jsac.2025.3560039"
+abstract: ""
+cited_by: "0"
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://www.techrxiv.org/doi/full/10.36227/techrxiv.19127090"  # Link to the resource
+  - 
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10963973/"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

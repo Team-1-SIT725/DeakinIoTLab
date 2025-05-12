@@ -1,42 +1,32 @@
 ---
 title: "A decentralized federated learning approach for connected autonomous vehicles"
-
-# Authors
 authors:
-  - "Shiva Raj Pokhrel and Jinho Choi"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
+  - Shiva Raj Pokhrel and Jinho Choi
+year: "2020"
+date: "2020-01-01"
 publication_types: ["1"]  # Conference Paper
-
-# Publication name and details
+publication_type_label: "Conference Paper"
 publication: "N/A"
-cited_by: "112"
-
-# Tags for categorization
+publisher: "IEEE"
+volume: ""
+issue: ""
+pages: ""
+doi: "10.1109/wcncw48565.2020.9124733"
+abstract: ""
+cited_by: "117"
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/9124733/"  # Link to the resource
+  - 
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9124733/"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---

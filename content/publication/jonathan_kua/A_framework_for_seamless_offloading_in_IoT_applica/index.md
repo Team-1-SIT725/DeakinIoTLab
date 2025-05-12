@@ -1,42 +1,32 @@
 ---
 title: "A framework for seamless offloading in IoT applications using edge and cloud computing"
-
-# Authors
 authors:
-  - "Himesh Welgama and Kevin Lee and Jonathan Kua"
-
-# Date of publication
-date: 2000-01-01
-
-# Publication type
+  - Himesh Welgama and Kevin Lee and Jonathan Kua
+year: "2022"
+date: "2022-01-01"
 publication_types: ["1"]  # Conference Paper
-
-# Publication name and details
+publication_type_label: "Conference Paper"
 publication: "N/A"
+publisher: "SCITEPRESS - Science and Technology Publications"
+volume: ""
+issue: ""
+pages: ""
+doi: "10.5220/0011107500003194"
+abstract: ""
 cited_by: "1"
-
-# Tags for categorization
 tags:
-  - ""
-
-# Links to resources
-url_pdf: "https://www.scitepress.org/Papers/2022/111075/111075.pdf"  # Link to the resource
+  - 
+url_pdf: "https://www.scitepress.org/Papers/2022/111075/111075.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-
-# Featured image (optional)
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated projects (optional)
 projects: []
-
-# Slides (optional)
 slides: ""
 ---
