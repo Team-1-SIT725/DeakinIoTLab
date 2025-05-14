@@ -31,7 +31,7 @@ sections:
         The IoT and Software Engineering Lab at Deakin University is a hub for research, prototyping, and innovation. Our mission is to solve real-world challenges using connected systems, scalable software architectures, and intelligent sensing technologies.
 
         We focus on key areas such as:
-        - Embedded and real-time systems
+        - Embedde and real-time systems
         - Wireless sensor networks
         - Edge and cloud computing integration
         - Smart infrastructure and energy systems
