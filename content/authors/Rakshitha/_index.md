@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Rakshitha De Silva
+title: Rakshitha De Silva
 
 # Full name (for SEO)
 first_name: Rakshitha

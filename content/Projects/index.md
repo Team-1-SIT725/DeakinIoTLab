@@ -1,49 +1,23 @@
 ---
-title: Projects
+title: Ongoing Projects
 type: page
 layout: page
 ---
 
-## Research Projects at Deakin IoT Lab
 
-Our team at Deakin University is committed to advancing the Internet of Things (IoT) through research, innovation, and collaboration. Below is a categorized list of key projects currently undertaken by our lab members.
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 40px; flex-wrap: wrap;">
 
----
+  <div style="flex: 1; min-width: 280px;">
+    <h3 style="margin-top: 0;"><a href="/projects/l4s/" style="color: #1a237e; text-decoration: none;">
+  Experience-Driven L4S Internet Service Architecture in FreeBSD
+</a></h3>
+    <p style="font-size: 16px; color: #444;">
+      This project explores how Low Latency, Low Loss, and Scalable Throughput (L4S) internet service architecture can be implemented in the FreeBSD networking stack. It aims to improve responsiveness in applications such as real-time communication, cloud gaming, and industrial IoT.
+    </p>
+    <p style="font-size: 14px; color: #666; margin-bottom: 0;"><em>May 12, 2025</em></p>
+  </div>
 
-### 🔹 AI-driven Systems
+  <img src="/media/l4s-networking.jpg" alt="L4S Networking Project"
+       style="max-width: 300px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 
-- **AI-driven Data Protocols**  
-  Researching adaptive data routing and intelligent communication protocols optimized for edge computing and IoT networks.
-
----
-
-### 🔹 IoT Infrastructure and Platforms
-
-- **IoT Sensing**  
-  Projects focused on sensor integration, low-power data collection, and real-time monitoring in diverse environments.
-
-- **IoT Platforms**  
-  Building scalable middleware and platforms for managing and analyzing sensor data in smart systems.
-
-- **SIXG Communications**  
-  Exploring 6G and future wireless communication technologies tailored for ultra-reliable, low-latency IoT networks.
-
----
-
-### 🔹 RF-Sensing and Privacy-Aware Systems
-
-- **Privacy-Compliant Monitoring**  
-  Developing sensing systems that preserve user privacy while maintaining high fidelity and performance.
-
-- **RFCKD Pose Estimation**  
-  Contactless human activity and pose estimation using RF signals and machine learning.
-
-- **SDR Testbed**  
-  A software-defined radio environment for prototyping wireless protocols and RF-sensing applications.
-
-- **Teacher-Student Network**  
-  Knowledge distillation models for efficient inference on constrained edge devices, applied to RF activity recognition.
-
----
-
-All projects involve collaboration between students, researchers, and external partners to ensure their relevance, scalability, and potential real-world application.
+</div>

@@ -12,6 +12,7 @@ sections:
       user_groups:
         - Mobile Computing Researchers
         - IoT Researchers
+        - Principal Investigator
         - Professors
         - Research Leads
         - Researchers

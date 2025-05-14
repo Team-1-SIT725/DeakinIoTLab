@@ -1,5 +1,5 @@
 ---
-title: "Dr. Shyam Kumar Shrestha"
+title: "Shyam Kumar Shrestha"
 
 # Role/Position
 role: Honours Graduate in Information Technology 
